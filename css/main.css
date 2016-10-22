@@ -1,0 +1,12 @@
+*{margin: 0;
+padding: 0;}
+
+body{text-align: center;}
+
+nav{background-color:#38607f;
+	padding-top:10px;
+color: white;
+font-size: 50px;
+height: 100px;}
+
+input{height: 33px}
